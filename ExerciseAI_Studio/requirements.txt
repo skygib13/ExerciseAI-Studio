@@ -1,0 +1,7 @@
+numpy
+opencv-python
+mediapipe
+PySide6
+matplotlib
+reportlab
+ultralytics
